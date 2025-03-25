@@ -3,7 +3,6 @@ import Home from "./Home";
 import AddSchool from "./AddSchool";
 import ListSchools from "./ListSchools";
 import "./App.css";
-import "./style.css"
 
 const App = () => {
   const [page, setPage] = useState("home");
